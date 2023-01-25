@@ -88,7 +88,7 @@
     "vuepress-plugin-sitemap": "2.3.1",
     "yorkie": "2.0.0"
   },
-  "deprdencies": {
+  "dependencies": {
     "@koa/router": "12.0.0",
     "@postlight/parser": "2.2.3",
     "@sentry/node": "7.33.0",
@@ -103,7 +103,7 @@
     "dayjs": "1.11.7",
     "dotenv": "16.0.3",
     "emailjs-imap-client": "3.1.0",
-    "entities": "4.4.0",
+    "entities": "3.0.1",
     "etag": "1.8.1",
     "fanfou-sdk": "4.2.0",
     "git-rev-sync": "3.0.2",
